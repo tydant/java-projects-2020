@@ -7,7 +7,7 @@ public class Diffrent_Languges {
 		System.out.println("Tchau");
 		System.out.println("do widzenia");
 		System.out.println("Güle güle");
-		System.out.println("slán");
+		System.out.println("haye");
 		System.out.println("Hola");
 		
 	}

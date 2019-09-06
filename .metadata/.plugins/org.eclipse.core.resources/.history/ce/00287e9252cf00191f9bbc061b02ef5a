@@ -4,10 +4,10 @@ public class Diffrent_Languges {
 
 	public Diffrent_Languges() {
 		
-		System.out.println("Tchau");
-		System.out.println("do widzenia");
-		System.out.println("Güle güle");
-		System.out.println("slán");
+		System.out.println("Olá");
+		System.out.println("Salam");
+		System.out.println("Merhaba");
+		System.out.println("haye");
 		System.out.println("Hola");
 		
 	}
